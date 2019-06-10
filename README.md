@@ -1,0 +1,1 @@
+Taking the concept of an Image and build a class for it using object-oriented programming techniques. This Image will use a two-dimentional array to store the pixel values for the image.
